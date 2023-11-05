@@ -1,5 +1,5 @@
 # LoginScreen TDD 
-No Projeto criamos um sistema que verifica o usuário e a senha em Java, usando (TDD)
+No Projeto criamos um sistema que verifica o usuário e a senha em Java, usando TDD
 
 ![licaoteste](https://github.com/Felepenhos/LoginScreen/assets/116446769/540d791e-30c6-4dfb-b5bc-14f83d76431a)
 
